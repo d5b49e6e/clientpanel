@@ -2,14 +2,11 @@
 
 . cd clientpanel
 . npm install
-. ng server
+. ng serve
 . open http://localhost:4200
-
-----
-Login using
-username: test@test.com
-password: test1234
-----
+. Login using
+.. username: test@test.com
+.. password: test1234
 
 # Clientpanel
 
