@@ -1,4 +1,4 @@
-# Quickstart
+== Quickstart
 
 . cd clientpanel
 . npm install
