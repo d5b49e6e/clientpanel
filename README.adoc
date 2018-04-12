@@ -1,4 +1,4 @@
-== Quickstart
+# Quickstart
 
 . cd clientpanel
 . npm install
@@ -7,6 +7,8 @@
 . Login using
 .. username: test@test.com
 .. password: test1234
+
+---
 
 # Clientpanel
 
